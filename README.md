@@ -19,7 +19,7 @@ Build an interactive dashboard for business decision-making.
 
 ## Dashboard Preview
 
-![Amazon Sales Dashboard](Dashboardimage/DashboardImage.png)
+![Amazon Sales Dashboard](Dashboard image/DashboardImage.png)
 
 ## Key Dashboard Features
 
