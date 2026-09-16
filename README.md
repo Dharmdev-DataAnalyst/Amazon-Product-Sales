@@ -30,21 +30,21 @@ QTD Sales
 YTD Products Sold
 YTD Reviews
 
-3. Sales Trend Analysis
+2. Sales Trend Analysis
 Monthly sales trend
 Weekly sales trend
 Identification of sales fluctuations and peak periods
 
-4. Product Category Analysis
+3. Product Category Analysis
 YTD Sales by Product Category
 QTD Sales by Product Category
 Percentage contribution to YTD Sales
 
-5. Product Performance
+4. Product Performance
 Top 5 Products by YTD Sales
 Top 5 Products by YTD Reviews
 
-6. Interactive Filters
+5. Interactive Filters
 Product Category
 Quarter (QTR)
 
@@ -55,8 +55,6 @@ Power BI – Dashboard development and data visualization
 Power Query – Data cleaning and transformation
 
 DAX – KPI calculations and analytical measures
-
-SQL – Data analysis and querying, where applicable
 
 Data Modeling – Building relationships and analytical data structures
 
