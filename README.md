@@ -24,27 +24,29 @@ Build an interactive dashboard for business decision-making.
 ## Key Dashboard Features
 
 1. Sales Performance KPIs
+->YTD Sales
 
-YTD Sales
-QTD Sales
-YTD Products Sold
-YTD Reviews
+->QTD Sales
 
-2. Sales Trend Analysis
+->YTD Products Sold
+
+->YTD Reviews
+
+3. Sales Trend Analysis
 Monthly sales trend
 Weekly sales trend
 Identification of sales fluctuations and peak periods
 
-3. Product Category Analysis
+4. Product Category Analysis
 YTD Sales by Product Category
 QTD Sales by Product Category
 Percentage contribution to YTD Sales
 
-4. Product Performance
+5. Product Performance
 Top 5 Products by YTD Sales
 Top 5 Products by YTD Reviews
 
-5. Interactive Filters
+6. Interactive Filters
 Product Category
 Quarter (QTR)
 
